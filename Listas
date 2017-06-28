@@ -1,0 +1,437 @@
+using UnityEngine;
+using System.Collections;
+
+public class Listas : MonoBehaviour
+{
+    public int electron;
+    public int proton;
+    public int neutron;
+
+    public int Neutrones(int ing)
+    {
+        switch (ing)
+        {
+            case 1:
+                neutron = 1;
+            case 2:
+                neutron =2;
+            case 3:
+                neutron =  4;
+            case 4:
+                neutron = 5;
+            case 5:
+                neutron = 6;
+            case 6:
+                neutron = 6;
+            case 7:
+                neutron = 7;
+            case 8:
+                neutron = 8;
+            case 9:
+                neutron = 10;
+            case 10:
+                neutron = 10;
+            case 11:
+                proton = 11;
+                neutron = 12;
+                electron = 11;
+            case 12:
+                neutron = 12;
+            case 13:
+                neutron = 14;
+            case 14:
+                neutron = 14;
+            case 15:
+                neutron = 16;
+            case 16:
+                neutron = 16;
+            case 17:
+                neutron = 18;
+            case 18:
+                neutron = 22;
+            case 19:
+                neutron = 20;
+            case 20:
+                neutron =20;
+            case 21:
+                neutron = 23;
+            case 22:
+                neutron = 26;
+            case 23:
+                neutron = 28;
+            case 24:
+                neutron = 28;
+            case 25:
+                neutron = 30;
+            case 26:
+                neutron = 30;
+            case 27:
+                neutron = ;
+            case 28:
+                neutron =;
+            case 29:
+                proton =;
+                neutron =;
+                electron =;
+            case 30:
+                proton =;
+                neutron =;
+                electron =;
+            case 31:
+                proton =;
+                neutron =;
+                electron =;
+            case 32:
+                proton =;
+                neutron =;
+                electron =;
+            case 33:
+                proton =;
+                neutron =;
+                electron =;
+            case 34:
+                proton =;
+                neutron =;
+                electron =;
+            case 35:
+                proton =;
+                neutron =;
+                electron =;
+            case 36:
+                proton =;
+                neutron =;
+                electron =;
+            case 37:
+                proton =;
+                neutron =;
+                electron =;
+            case 38:
+                proton =;
+                neutron =;
+                electron =;
+            case 39:
+                proton =;
+                neutron =;
+                electron =;
+            case 40:
+                proton =;
+                neutron =;
+                electron =;
+            case 41:
+                proton =;
+                neutron =;
+                electron =;
+            case 42:
+                proton =;
+                neutron =;
+                electron =;
+            case 43:
+                proton =;
+                neutron =;
+                electron =;
+            case 44:
+                proton =;
+                neutron =;
+                electron =;
+            case 45:
+                proton =;
+                neutron =;
+                electron =;
+            case 46:
+                proton =;
+                neutron =;
+                electron =;
+            case 47:
+                proton =;
+                neutron =;
+                electron =;
+            case 48:
+                proton =;
+                neutron =;
+                electron =;
+            case 49:
+                proton =;
+                neutron =;
+                electron =;
+            case 50:
+                proton =;
+                neutron =;
+                electron =;
+            case 51:
+                proton =;
+                neutron =;
+                electron =;
+            case 52:
+                proton =;
+                neutron =;
+                electron =;
+            case 53:
+                proton =;
+                neutron =;
+                electron =;
+            case 54:
+                proton =;
+                neutron =;
+                electron =;
+            case 55:
+                proton =;
+                neutron =;
+                electron =;
+            case 56:
+                proton =;
+                neutron =;
+                electron =;
+            case 57:
+                proton =;
+                neutron =;
+                electron =;
+            case 58:
+                proton =;
+                neutron =;
+                electron =;
+            case 59:
+                proton =;
+                neutron =;
+                electron =;
+            case 60:
+                proton =;
+                neutron =;
+                electron =;
+            case 61:
+                proton =;
+                neutron =;
+                electron =;
+            case 62:
+                proton =;
+                neutron =;
+                electron =;
+            case 63:
+                proton =;
+                neutron =;
+                electron =;
+            case 64:
+                proton =;
+                neutron =;
+                electron =;
+            case 65:
+                proton =;
+                neutron =;
+                electron =;
+            case 66:
+                proton =;
+                neutron =;
+                electron =;
+            case 67:
+                proton =;
+                neutron =;
+                electron =;
+            case 68:
+                proton =;
+                neutron =;
+                electron =;
+            case 69:
+                proton =;
+                neutron =;
+                electron =;
+            case 70:
+                proton =;
+                neutron =;
+                electron =;
+            case 71:
+                proton =;
+                neutron =;
+                electron =;
+            case 72:
+                proton =;
+                neutron =;
+                electron =;
+            case 73:
+                proton =;
+                neutron =;
+                electron =;
+            case 74:
+                proton =;
+                neutron =;
+                electron =;
+            case 75:
+                proton =;
+                neutron =;
+                electron =;
+            case 76:
+                proton =;
+                neutron =;
+                electron =;
+            case 77:
+                proton =;
+                neutron =;
+                electron =;
+            case 78:
+                proton =;
+                neutron =;
+                electron =;
+            case 79:
+                proton =;
+                neutron =;
+                electron =;
+            case 80:
+                proton =;
+                neutron =;
+                electron =;
+            case 81:
+                proton =;
+                neutron =;
+                electron =;
+            case 82:
+                proton =;
+                neutron =;
+                electron =;
+            case 83:
+                proton =;
+                neutron =;
+                electron =;
+            case 84:
+                proton =;
+                neutron =;
+                electron =;
+            case 85:
+                proton =;
+                neutron =;
+                electron =;
+            case 86:
+                proton =;
+                neutron =;
+                electron =;
+            case 87:
+                proton =;
+                neutron =;
+                electron =;
+            case 88:
+                proton =;
+                neutron =;
+                electron =;
+            case 89:
+                proton =;
+                neutron =;
+                electron =;
+            case 90:
+                proton =;
+                neutron =;
+                electron =;
+            case 91:
+                proton =;
+                neutron =;
+                electron =;
+            case 92:
+                proton =;
+                neutron =;
+                electron =;
+            case 93:
+                proton =;
+                neutron =;
+                electron =;
+            case 94:
+                proton =;
+                neutron =;
+                electron =;
+            case 95:
+                proton =;
+                neutron =;
+                electron =;
+            case 96:
+                proton =;
+                neutron =;
+                electron =;
+            case 97:
+                proton =;
+                neutron =;
+                electron =;
+            case 98:
+                proton =;
+                neutron =;
+                electron =;
+            case 99:
+                proton =;
+                neutron =;
+                electron =;
+            case 100:
+                proton =;
+                neutron =;
+                electron =;
+            case 101:
+                proton =;
+                neutron =;
+                electron =;
+            case 102:
+                proton =;
+                neutron =;
+                electron =;
+            case 103:
+                proton =;
+                neutron =;
+                electron =;
+            case 104:
+                proton =;
+                neutron =;
+                electron =;
+            case 105:
+                proton =;
+                neutron =;
+                electron =;
+            case 106:
+                proton =;
+                neutron =;
+                electron =;
+            case 107:
+                proton =;
+                neutron =;
+                electron =;
+            case 108:
+                proton =;
+                neutron =;
+                electron =;
+            case 109:
+                proton =;
+                neutron =;
+                electron =;
+            case 110:
+                proton =;
+                neutron =;
+                electron =;
+            case 111:
+                proton =;
+                neutron =;
+                electron =;
+            case 112:
+                proton =;
+                neutron =;
+                electron =;
+            case 113:
+                proton =;
+                neutron =;
+                electron =;
+            case 114:
+                proton =;
+                neutron =;
+                electron =;
+            case 115:
+                proton =;
+                neutron =;
+                electron =;
+            case 116:
+                proton =;
+                neutron =;
+                electron =;
+            case 117:
+                proton =;
+                neutron =;
+                electron =;
+            case 118:
+                proton =;
+                neutron =;
+                electron =;
+
+        }
+
+        return neutron;
+    }
+}
